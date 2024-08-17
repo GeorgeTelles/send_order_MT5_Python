@@ -1,10 +1,3 @@
-"""
-Esse codigo abre ordens no mercado financeiro na plataforma MT5 atraves do Python
-
-By: George Telles
-+55 11 93290-7425
-"""
-
 import time
 import MetaTrader5 as mt5
  
